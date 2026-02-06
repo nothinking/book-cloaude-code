@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./scripts/gh-discussion.sh:*)",
+      "Bash(./scripts/gh-search.sh:*)",
+      "Bash(./scripts/confluence-api.sh:*)"
+    ]
+  }
+}
